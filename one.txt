@@ -1,0 +1,1 @@
+redux -> in redux global store we will state 
