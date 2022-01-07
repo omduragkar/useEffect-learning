@@ -64,6 +64,7 @@ app.post("/api/check", (req, res)=>{
   }
 })
 // app.use('/api', require('./routes/'));
+let port = 5000;
 app.listen(port, (err)=>{
   if(err)
   {
